@@ -15,7 +15,7 @@ const PROFILE = {
   name: "Nithishvar S",
   role: "Software Engineer / Business Analyst / AI Developer",
   tagline:
-    "I build systems that reason over data — RAG pipelines, agentic AI, graph recommenders. Off the clock, I coach people through the same discipline it takes to ship them.",
+    "I build systems that reason over data — RAG pipelines, agentic AI, graph recommenders.",
   email: "nithishvars03@gmail.com",
   phone: "+91-9965766677",
   linkedin: "https://www.linkedin.com/in/nithishvar-srinivasan-696461250",
