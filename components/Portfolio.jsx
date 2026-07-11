@@ -300,7 +300,7 @@ export default function Portfolio() {
               ● OPEN TO INTERNSHIPS &amp; FULL-TIME ROLES — 2027
             </div>
             <h1 className="display text-[13vw] md:text-[6.2vw] leading-[0.92] mb-8">
-              Building AI<br />that reasons.<br />Coaching people<br />who show up.
+              Help Turn Data<br />Into Decisions.<br />And Turning Models<br />Into Systems.
             </h1>
             <div className="grid md:grid-cols-2 gap-8 items-end">
               <p className="max-w-md leading-relaxed" style={{ color: MUTED }}>{PROFILE.tagline}</p>
