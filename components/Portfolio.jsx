@@ -306,13 +306,7 @@ export default function Portfolio() {
               <p className="max-w-md leading-relaxed" style={{ color: MUTED }}>{PROFILE.tagline}</p>
               <div className="flex flex-wrap gap-3 md:justify-end">
                 <ArrowLink onClick={() => scrollTo("work")} filled>View Work</ArrowLink>
-                <ArrowLink
-  href="/cv.pdf"
-  target="_blank"
-  rel="noopener noreferrer"
->
-  Download CV
-</ArrowLink>
+                <ArrowLink href="/cv.pdf" target="_blank" rel="noopener noreferrer">Download CV</ArrowLink>
               </div>
             </div>
           </motion.div>
